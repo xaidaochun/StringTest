@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StringTest</string>
+    <string name="app_txt">文本内容</string>
+</resources>
